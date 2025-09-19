@@ -39,8 +39,20 @@ The paper introduces a generalized and exact formulation of the parameter-shift 
 ---
 
 ## Requirements
-To reproduce the plots:  
-- Python 3.8+  
-- NumPy  
-- Matplotlib  
+
+To reproduce the plots, install:
+
+- Python ≥ 3.9  
+- [NumPy](https://numpy.org/)  
+- [Matplotlib](https://matplotlib.org/)  
+
+Optional: [Seaborn](https://seaborn.pydata.org/) for enhanced figure styling.  
+
+---
+
+## Usage
+
+1. Clone or download this repository.  
+2. Install the required Python packages.  
+3. Run the plotting scripts
 
