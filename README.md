@@ -3,7 +3,6 @@
 ¹ Department of Mechanical and Aerospace Engineering, Tohoku University, Sendai 980-0845, Japan  
 ² Department of Applied Physics, Graduate School of Engineering, Tohoku University, Sendai 980-8579, Japan  
 ³ Frontier Research Institute for Interdisciplinary Sciences, Tohoku University, Sendai 980-8578, Japan  
-**Date:** September 19, 2025  
 
 ---
 
