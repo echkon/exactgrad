@@ -43,8 +43,4 @@ To reproduce the plots:
 - Python 3.8+  
 - NumPy  
 - Matplotlib  
-- Pandas  
 
-Install dependencies via:  
-```bash
-pip install numpy matplotlib pandas
